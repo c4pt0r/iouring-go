@@ -27,6 +27,7 @@ const (
 	FeatSubmitStable   = (1 << 2)
 	FeatRwCurPos       = (1 << 3)
 	FeatCurPersonality = (1 << 4)
+	FeatFastPoll       = (1 << 5)
 )
 
 const (
